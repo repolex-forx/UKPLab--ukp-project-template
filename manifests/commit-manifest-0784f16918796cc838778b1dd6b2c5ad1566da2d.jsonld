@@ -1,0 +1,44 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/UKPLab/ukp-project-template/commit/0784f16918796cc838778b1dd6b2c5ad1566da2d",
+  "@type": "git:Commit",
+  "git:hexsha": "0784f16918796cc838778b1dd6b2c5ad1566da2d",
+  "repolex:repository": {
+    "@id": "https://repolex.ai/r/UKPLab/ukp-project-template"
+  },
+  "repolex:graphFile": [
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "filetree",
+      "repolex:graphFilePath": "filetree/0784f16918796cc838778b1dd6b2c5ad1566da2d.nq.gz",
+      "repolex:graphFileSize": 7698
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "commit",
+      "repolex:graphFilePath": "commit/commit.nq.gz",
+      "repolex:graphFileSize": 17993
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "branch",
+      "repolex:graphFilePath": "branch/branch.nq.gz",
+      "repolex:graphFileSize": 412
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "tag",
+      "repolex:graphFilePath": "tag/tag.nq.gz",
+      "repolex:graphFileSize": 32
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "pr",
+      "repolex:graphFilePath": "pr/pr.nq.gz",
+      "repolex:graphFileSize": 1237
+    }
+  ],
+  "repolex:parseStatus": "metadata_complete",
+  "repolex:parsedAt": "2026-11-08T18:29:05.151097+00:00",
+  "repolex:parserVersion": "0.1.10"
+}
